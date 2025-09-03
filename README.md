@@ -9,8 +9,8 @@ I look forward to future projects which may build on the skills cultivated here 
 
 Details:
 
-Researched a pair trading strategy in the crypto market using Binance data; added rolling OLS hedge ratios (time-varying β), cointegration residuals, and z-score entry/exit logic with hysteresis, stop-loss, and max-hold.
+- Researched a pair trading strategy in the crypto market using Binance data; added rolling OLS hedge ratios (time-varying β), cointegration residuals, and z-score entry/exit logic with hysteresis, stop-loss, and max-hold.
 
-Wrote Python program to download market data; processed and analyzed the data visually and statistically; calculated beta and spread between different pairs; implemented one-bar execution delay, per-leg transaction/spread costs, turnover accounting, volatility targeting on residual risk, and visualizations of residuals, thresholds, and cumulative PnL.
+- Wrote Python program to download market data; processed and analyzed the data visually and statistically; calculated beta and spread between different pairs; implemented one-bar execution delay, per-leg transaction/spread costs, turnover accounting, volatility targeting on residual risk, and visualizations of residuals, thresholds, and cumulative PnL.
 
-Used scikit-learn to fit linear predictive models for trading signals; added a walk-forward grid search to tune beta window, entry/exit bands, and volatility targets; reported Sharpe, hit rate, and turnover.
+- Used scikit-learn to fit linear predictive models for trading signals; added a walk-forward grid search to tune beta window, entry/exit bands, and volatility targets; reported Sharpe, hit rate, and turnover.
